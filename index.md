@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+![alt text](HC6_Highlighted_Map_Of_Ridgewood.png)
+
 <dl>
 <iframe src="HC10_Neighborhood_Map.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
