@@ -1,5 +1,7 @@
 ## Ridgewood
 
+![alt text](HC6_Highlighted_Map_Of_Ridgewood.png)
+
 Located in western Queens, the neighborhood of Ridgewood is bordered by neighborhoods such as Bushwick and East Williamsburg to the west and Middle Village, Glendale, and Maspeth to the east. Ridgewood’s location along Myrtle Avenue alongside its immigrant population allows for a popular food scene. It’s notorious side streets lined with arched, single-family houses with stoops have created an emphasis on family and community in Ridgewood. 
 
 ## Food Scene 
@@ -28,25 +30,33 @@ Age
 
 ## Comparing Ridgewood to Other Neighborhoods of Queens
 
+![alt text](HC3_Results.png)
 
 ```
-In order to determine how each of our Queens neighborhoods ranked in terms of desirability for outdoor dining, we compared each one using the following desirable qualities: walk score, transit score, and income. Walk Score measures how readily the residents of a neighborhood can access the restaurants. People walking around the neighborhood could spot the restaurants and decide to stay and eat. Transit Score measures how readily consumers outside the neighborhood can access the restaurants. People need to be able to access the restaurants easily if they hear about them through advertisements. Income  is used to determine the cost of living. This then indicates more opportunities for restaurants to operate and be supported. We first ranked each neighborhood by a criteria and awarded 1 to 5 points (5 being the best and 1 being the worst). Then we totaled the points to determine a final ranking. For all metrics, walk score, transit score and median income, the higher the number is, the more points each neighborhood received. In terms of desirability of outdoor dining, our metrics indicate the following for our respective neighborhoods in Queens (from best to worst): Ridgewood, Jackson Heights, Astoria, Maspeth, Flushing. Ridgewood has the best balance of walkability, train access, and income to create an environment ideal for people to start restaurants that have outdoor dining while being easily accessible to people in and out of the area.
+In order to determine how each of our Queens neighborhoods ranked in terms of desirability 
+for outdoor dining, we compared each one using the following desirable qualities: walk 
+score, transit score, and income. Walk Score measures how readily the residents of a 
+neighborhood can access the restaurants. People walking around the neighborhood could spot 
+the restaurants and decide to stay and eat. Transit Score measures how readily consumers 
+outside the neighborhood can access the restaurants. People need to be able to access the 
+restaurants easily if they hear about them through advertisements. Income  is used to 
+determine the cost of living. This then indicates more opportunities for restaurants to 
+operate and be supported. We first ranked each neighborhood by a criteria and awarded 1 
+to 5 points (5 being the best and 1 being the worst). Then we totaled the points to 
+determine a final ranking. For all metrics, walk score, transit score and median income, 
+the higher the number is, the more points each neighborhood received. In terms of 
+desirability of outdoor dining, our metrics indicate the following for our respective 
+neighborhoods in Queens (from best to worst): Ridgewood, Jackson Heights, Astoria, Maspeth, 
+Flushing. Ridgewood has the best balance of walkability, train access, and income to create 
+an environment ideal for people to start restaurants that have outdoor dining while being 
+easily accessible to people in and out of the area.
 ```
 
-## Location of Ridgewood
-
-![alt text](HC6_Highlighted_Map_Of_Ridgewood.png)
+## Data Analysis of Ridgewood from Open Restaurants Data Set
+![alt text](HC9_Results.png)
 
 ## Interactive Map with Restaurant Markers
 
 <dl>
 <iframe src="HC10_Neighborhood_Map.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lauren-avilla/ridgewood/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
