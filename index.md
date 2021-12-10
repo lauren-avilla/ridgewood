@@ -2,7 +2,7 @@
 
 ![alt text](HC6_Highlighted_Map_Of_Ridgewood.png)
 
-Located in western Queens, the neighborhood of Ridgewood is bordered by neighborhoods such as Bushwick and East Williamsburg to the west and Middle Village, Glendale, and Maspeth to the east. Ridgewood’s location along Myrtle Avenue alongside its immigrant population allows for a popular food scene. It’s notorious side streets lined with arched, single-family houses with stoops have created an emphasis on family and community in Ridgewood. 
+Located in western Queens, the neighborhood of Ridgewood is bordered by neighborhoods such as Bushwick and East Williamsburg to the west and Middle Village, Glendale, and Maspeth to the east. Ridgewood’s location along Myrtle Avenue alongside its immigrant population allows for a popular food scene. Its notorious side streets lined with arched, single-family houses with stoops have created an emphasis on family and community in Ridgewood. 
 
 ## Food Scene 
 
